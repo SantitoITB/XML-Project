@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/css" href="./ejercicio01.css" ?>
+<centro>
+    <classe>
+        <assignatura>Llenguatges de marques</assignatura>
+        <professor Especialitat="507">
+            <nom>Marcel</nom>
+            <cognoms>Puig</cognoms>
+        </professor>
+        <alumnes>
+            <alumne>
+                <nom>Frederic</nom>
+                <cognoms>Pi</cognoms>
+            </alumne>
+            <alumne>
+                <nom>Filomeno</nom>
+                <cognoms>Garcia</cognoms>
+            </alumne>
+        </alumnes>
+    </classe>
+    <classe>
+        <assignatura>Programació</assignatura>
+        <professor Especialitat="507">
+            <nom>Maria</nom>
+            <cognoms>Perez</cognoms>
+        </professor>
+        <alumnes>
+            <alumne>
+                <nom>Carolina</nom>
+                <cognoms>Brunés</cognoms>
+            </alumne>
+            <alumne>
+                <nom>Frederic</nom>
+                <cognoms>Pi</cognoms>
+            </alumne>
+            <alumne>
+                <nom>Filomeno</nom>
+                <cognoms>Garcia</cognoms>
+            </alumne>
+            <alumne>
+                <nom>Lola</nom>
+                <cognoms>Sintes</cognoms>
+            </alumne>
+        </alumnes>
+    </classe>
+</centro>

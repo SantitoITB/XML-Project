@@ -1,0 +1,36 @@
+centro {
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-template-areas: ". .";
+}
+
+classe {
+  display: block;
+  border: 1px solid #a3da8d;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+assignatura {
+  display: block;
+  border: 1px solid #146356;
+  font-weight: bolder;
+  text-align: center;
+  font-size: 30px;
+  color: #a3da8d;
+}
+
+professor {
+  display: block;
+  text-align: center;
+}
+
+professor,
+alumne {
+  color: #77e4d4;
+  font-weight: bolder;
+  font-size: 20px;
+}
