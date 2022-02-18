@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cadena>
+  <nom>Un TV</nom>
+  <programas>
+    <programa hora="15:00">
+      <nom-programa>Podant arbres</nom-programa>
+      <audiencia>22</audiencia>
+    </programa>
+    <programa hora="18:00">
+      <nom-programa>Estiu Blau I</nom-programa>
+      <audiencia>13</audiencia>
+    </programa>
+    <programa hora="22:00">
+      <nom-programa>Estiu Blau II</nom-programa>
+      <audiencia>9</audiencia>
+    </programa>
+    <programa hora="24:00">
+      <nom-programa>Santa Missa</nom-programa>
+      <audiencia>0,1</audiencia>
+    </programa>
+  </programas>
+</cadena>

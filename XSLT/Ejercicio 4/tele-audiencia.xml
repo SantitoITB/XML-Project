@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<programacio>
+    <audiencia>
+        <hora>15:00</hora>
+        <cadenes>
+            <cadena nom="Tele23" posicio="2" percentatge="30">On està el cor?</cadena>
+            <cadena nom="Un TV" posicio="3" percentatge="22">Podant arbres</cadena>
+            <cadena nom="4 gats TV" posicio="1" percentatge="33">Avui què és?</cadena>
+            <cadena nom="Antena 99" posicio="4" percentatge="14">Cor 2</cadena>
+            <cadena nom="La TV" posicio="5" percentatge="1">El programa més vist</cadena>
+        </cadenes>
+    </audiencia>
+    <audiencia>
+        <hora>18:00</hora>
+        <cadenes>
+            <cadena nom="Tele23" posicio="1" percentatge="35">Prèvia del futbol</cadena>
+            <cadena nom="Un TV" posicio="3" percentatge="13">Estiu Blau I</cadena>
+            <cadena nom="4 gats TV" posicio="2" percentatge="34">La pel·licula de la setmana</cadena>
+            <cadena nom="Antena 99" posicio="4" percentatge="13">Cor 13</cadena>
+            <cadena nom="La TV" posicio="5" percentatge="5">El programa</cadena>
+        </cadenes>
+    </audiencia>
+    <audiencia>
+        <hora>22:00</hora>
+        <cadenes>
+            <cadena nom="Tele23" posicio="1" percentatge="50">Futbol!</cadena>
+            <cadena nom="Un TV" posicio="3" percentatge="9">Estiu Blau II</cadena>
+            <cadena nom="4 gats TV" posicio="2" percentatge="27">La pel·licula de la setmana</cadena>
+            <cadena nom="Antena 99" posicio="4" percentatge="13">Cor 13</cadena>
+            <cadena nom="La TV" posicio="5" percentatge="1">El programa</cadena>
+        </cadenes>
+    </audiencia>
+    <audiencia>
+        <hora>24:00</hora>
+        <cadenes>
+            <cadena nom="Tele23" posicio="1" percentatge="96">Sang en directe</cadena>
+            <cadena nom="Un TV" posicio="5" percentatge="0,1">Santa Missa</cadena>
+            <cadena nom="4 gats TV" posicio="2" percentatge="3">Catalans! Catalunya!</cadena>
+            <cadena nom="Antena 99" posicio="5" percentatge="0,4">Cor 13</cadena>
+            <cadena nom="La TV" posicio="3" percentatge="0,5">El segon programa més vist</cadena>
+        </cadenes>
+    </audiencia>
+</programacio>
