@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<discos>
+	<group id="muse">
+		<name>MUSE</name>
+		<member>Matthew Bellamy</member>
+		<member>Dominic Howard</member>
+		<member>Chris Wolstenholme</member>
+	</group>
+	<group id="feeder">
+		<name>FEEDER</name>
+		<member>Grant Nicholas</member>
+		<member>Taka Hirose</member>
+		<member>Jon Henry Lee</member>
+	</group>
+	<disco>
+		<interpreter id="muse" />
+		<title>Showbiz</title>
+	</disco>
+	<disco>
+		<interpreter id="feeder" />
+		<title>Echo Park</title>
+	</disco>
+	<disco>
+		<interpreter id="muse" />
+		<title>Origin of symmetry</title>
+	</disco>
+	<disco>
+		<interpreter id="feeder" />
+		<title>Comfort In Sound</title>
+	</disco>
+</discos>
